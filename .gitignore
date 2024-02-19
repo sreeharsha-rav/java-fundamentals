@@ -2,25 +2,36 @@
 *.class
 
 # Build output directories
-/bin/
-/target/
+bin/
 
 # IDE-specific files
-/.idea/
-/.vscode/
+.idea/
+.vscode/
+
+# Eclipse files
+.settings/
+.project
+.classpath
 
 # Dependency management files
 # For Maven:
-# /target/
+target/
 # For Gradle:
-# /build/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
 
 # Temporary files
 *.tmp
-*.log
 
 # Configuration files containing sensitive information
-/config.properties
+config.properties
 
 # Operating system-specific files
 .DS_Store
