@@ -17,5 +17,3 @@ Explore the functionalities of the `java.lang` package, particularly focusing on
 - **Description:** Define an interface for commonly used mathematical operations.
 - **Implementation:** Provide an implementation for the interface.
 
-*Note: Ensure to demonstrate practical examples for better understanding.*
-
