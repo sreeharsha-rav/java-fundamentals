@@ -1,12 +1,12 @@
-# Encapsulation & Inheritance
+## Encapsulation & Inheritance
 
-## Objective
+### Objective
 - Implement classes & objects
 - Make use of static members
 - Use constructors for initializing an object
 - Derive a class from an existing class
 
-## Problems
+### Problems
 
 ### 1. Book Class
 Create a class `Book` with private members `bookNo`, `title`, `author`, `price`. Provide getters and setters. Create a `BookDetails` class with `main` method to create `Book` object and initialize it by reading inputs from the user.

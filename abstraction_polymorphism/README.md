@@ -1,6 +1,6 @@
 ## Concept: Abstraction & Polymorphism
 
-## Objective:
+### Objective:
 Explore the concepts of abstraction and polymorphism through practical implementation.
 
 ### Problems:

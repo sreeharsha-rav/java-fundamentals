@@ -1,6 +1,6 @@
-# java.lang package
+## java.lang package
 
-## Objective:
+### Objective:
 Explore the functionalities of the `java.lang` package, particularly focusing on the usage of the `StringBuilder` class.
 
 ### Problems:

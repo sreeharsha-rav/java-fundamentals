@@ -1,12 +1,12 @@
-# Basics
+## Basics
 
-## Objective
+### Objective
 - Write simple Java programs
 - Use conditional and looping statements
 - Use arrays and strings
 - Use command line arguments
 
-## Problems
+### Problems
 
 ### 1. List Even Numbers
 Write a program to list all even numbers less than or equal to the number n. The value of n is given through the command line as input to the program.
